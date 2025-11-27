@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background-color: #2453D5 ;
+}
+.color2 {
+ color: #FF71AD;
+
+
+}
+h3, h1 {
+
+ text-shadow:  -1px -1px 0 #000,
+ 1px -1px 0 #000,
+ -1px 1px 0 #000,
+ 1px 1px 0 #000;
+}
+.color1 {
+  color: #FFDD00;
+}
+.tittle h3 {
+    font-size: 35px;
+}
+.tittle {
+    font-family: 'Sansita One';
+    font-size: 42px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.tittle2 {
+    font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+ 
+  color: white;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    border: 1px solid #747474;
+    background-color: #EFE8CC;
+    width: 700px;
+    height: 40px;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 5px 10px;
+    color: #4b4b4b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#searchImput{
+    padding: 8px;
+    border: none;
+    background-color: #EFE8CC;
+    width: 100%;
+    outline: none;
+}
