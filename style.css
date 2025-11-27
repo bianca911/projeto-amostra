@@ -21,6 +21,7 @@ h3, h1 {
 }
 .color1 {
   color: #FFDD00;
+
 }
 .tittle h3 {
     font-size: 35px;
@@ -41,11 +42,12 @@ h3, h1 {
     font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
   font-weight: 20px;
+  font-size: 20px;
   font-style: normal;
   display: flex;
   justify-content: center;
   text-align: center;
- 
+  margin-top: 20px;
   color: white;
 }
 
@@ -55,7 +57,7 @@ h3, h1 {
     border: 1px solid #747474;
     background-color: #EFE8CC;
     width: 700px;
-    height: 40px;
+    height: 45px;
     margin: 20px auto;
     border-radius: 20px;
     padding: 5px 10px;
