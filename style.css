@@ -54,12 +54,12 @@ h3, h1 {
 .search {
     display: flex;
     align-items: center;
-    border: 1px solid #747474;
+    border: 1px solid #000000;
     background-color: #EFE8CC;
     width: 700px;
     height: 45px;
     margin: 20px auto;
-    border-radius: 20px;
+    border-radius: 25px;
     padding: 5px 10px;
     color: #4b4b4b;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -71,3 +71,10 @@ h3, h1 {
     width: 100%;
     outline: none;
 }
+.search label {
+    height: 20px;
+}
+
+
+
+
