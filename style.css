@@ -47,7 +47,7 @@ h3, h1 {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 .tittle2 {
@@ -59,7 +59,7 @@ h3, h1 {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 15px;
     color: white;
 }
 
@@ -88,7 +88,7 @@ h3, h1 {
 }
 
 .search label {
-    height: 20px;
+    height: 10px;
 }
 
 .card-container {
@@ -163,11 +163,7 @@ h3, h1 {
     margin-bottom: 10px;
 }
 
-.book-category {
-    color: #2453D5;
-    font-size: 13px;
-    font-weight: bold;
-}
+
 
 .loading {
     text-align: center;
