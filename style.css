@@ -5,7 +5,19 @@
 
 }
 body {
-    background-color: #2453D5 ;
+
+    background: 
+    linear-gradient(to bottom, 
+        #2453D5 0%, 
+        #2453D5 49.5%, 
+        #000000 49.0%, 
+        #000000 49.8%, 
+        #EFE8CC 50.5%, 
+        #EFE8CC 100%);
+min-height: 100vh;
+color: #000000;
+margin: 0;
+padding: 0;
 }
 .color2 {
  color: #FF71AD;
